@@ -1,0 +1,38 @@
+Fichier BASES : identifier les bases de données  et les fichiers.
+-	Espacenet
+-	Astrée
+-	INSEE
+
+Fichier VARIABLES 
+-	Extension
+-	Retard de paiement
+-	Catégorisation PME/ETI…
+-	Nb de déposants
+-	CIB
+-	Var déposant, inventeur, titulaire, mandataire // Pays, région, département, ville
+-	Géocodage (lat, long)
+-	Famille : pays d’origine du brevet
+-	Priorité
+-	1er dépôt
+-	Code Nace 
+-	Nb d’établissements d’une entreprise
+-	Inscriptions (type, nombre…)
+
+Fichier REGLES
+-	Exclure les CCP
+-	Exclure les certificats d’utilité
+Fichier MODELES
+-	Un modèle pour les brevets entre le dépôt et la publication
+-	Un modèle pour les brevets entre la publication et la délivrance
+-	Un modèle pour les brevets après la délivrance
+-	Un modèle pour tous les brevets considérés comme en vigueur ( voir définition exacte avec Mickaël)
+-	
+
+Fichier UTILISATIONS : A quoi ça sert
+-	Classification supervisée : probabilité de maintien en vigueur 
+-	Classification supervisée : probabilité de déchéance (non maintien)
+-	évolution par an 
+-	variables importantes
+-	Classification non supervisée des entrants (technos émergeantes)
+-	Classification non supervisée des sortants (technos en déclin)
+-	
