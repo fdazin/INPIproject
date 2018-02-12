@@ -32,7 +32,10 @@
 -   Nb revendications
 -   Nb de pays de publication
 -   Nb citations
-
+- PIB pays & PIB région si c'est disponible
+- GERD  (http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Gross_domestic_expenditure_on_R_%26_D_(GERD))
+- Nombre de chercheurs par pays
+-
 ##%######################################################%##
 #                                                          #
 ####                   Fichier REGLES                   ####
