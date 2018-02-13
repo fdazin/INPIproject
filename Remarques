@@ -33,6 +33,18 @@
 -   Nb de pays de publication
 -   Nb citations
 
+- pour les dépots non publiés délivrés date de retrait et
+de rejet
+- réduction de taxe au moment du dépôt
+- le titulaire est-il le même que le déposant?
+- utilisation d'un mandataire interne ou d'un CPI?
+- Domaines techniques
+- Extension à l'OEB?
+- variables économiques sur les pays (associés à la
+nationalité des déposants?)
+
+
+
 ##%######################################################%##
 #                                                          #
 ####                   Fichier REGLES                   ####
@@ -41,6 +53,13 @@
 
 -	Exclure les CCP
 -	Exclure les certificats d’utilité
+
+-Regles
+PM-PP utilisée dans les études (Une personne physique co-déposant avec au moins
+une personne morale, n'est pas gardée. On considère que c'est un brevet déposé
+par des personnes morales)
+
+
 
 ##%######################################################%##
 #                                                          #
