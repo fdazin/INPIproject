@@ -8,7 +8,10 @@
 -	Espacenet
 -	Astrée
 -	INSEE
-
+- Patstat
+- Extraction Soprano (brevets + annuités)
+- Madras (inscriptions)
+- Derwent (abandonné cause incompatibilité identifiants brevets)
 
 ##%######################################################%##
 #                                                          #
@@ -42,7 +45,7 @@ de rejet
 - Extension à l'OEB?
 - variables économiques sur les pays (associés à la
 nationalité des déposants?)
-
+- résumé du brevet en français après la délivrance
 
 
 ##%######################################################%##
